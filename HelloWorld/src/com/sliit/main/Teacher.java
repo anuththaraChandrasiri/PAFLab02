@@ -12,7 +12,7 @@ public class Teacher {
 		this.name = name;
 	}
 	public int getAge() {
-		return ID;
+		return age;
 	}
 	public void setAge(int age) {
 		this.age = age;
